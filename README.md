@@ -137,7 +137,10 @@ Add images and other contents using CSS record a screenshot of it.
 </html>
 ```
 #output:
+
 ![Screenshot 2023-12-17 112910](https://github.com/Kamal-Raj-A/Ex-06-Book-Cover-Design/assets/145742556/e0e33af0-42d7-4b47-b2a8-5bf520f9803a)
+
 #Result:
+
 Thus the Book cover program is executed successfully.
 
